@@ -1,0 +1,18 @@
+{
+    "value": [
+        {
+            "framerate": 30,
+            "videoPassthrough": false,
+            "videoBitrate": 1800,
+            "cpuUsageLevel": 2,
+            "audioPassthrough": true
+        },
+        {
+            "framerate": 24,
+            "videoPassthrough": false,
+            "videoBitrate": 1000,
+            "cpuUsageLevel": 3,
+            "audioPassthrough": true
+        }
+    ]
+}
