@@ -1,28 +1,18 @@
 {
     "value": [
         {
-            "name": "Source",
+            "name": "2160p90 60Mbps",
             "videoPassthrough": true,
             "audioPassthrough": true
         },
         {
-            "name": "1440p90 36Mbps",
+            "name": "1080p90 15Mbps",
             "framerate": 90,
             "videoPassthrough": false,
-            "videoBitrate": 36000,
-            "cpuUsageLevel": 5,
-            "scaledWidth": 3440,
-            "scaledHeight": 1440,
-            "audioPassthrough": true
-        },
-        {
-            "name": "720p90 9Mbps",
-            "framerate": 90,
-            "videoPassthrough": false,
-            "videoBitrate": 9000,
-            "cpuUsageLevel": 5,
-            "scaledWidth": 1720,
-            "scaledHeight": 720,
+            "videoBitrate": 15000,
+            "cpuUsageLevel": 3,
+            "scaledWidth": 1920,
+            "scaledHeight": 1080,
             "audioPassthrough": true
         }
     ]
