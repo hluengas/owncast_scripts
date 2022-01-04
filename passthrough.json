@@ -1,7 +1,7 @@
 {
     "value": [
         {
-            "name": "2160p90 60Mbps",
+            "name": "Source",
             "videoPassthrough": true,
             "audioPassthrough": true
         }
